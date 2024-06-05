@@ -1,0 +1,14 @@
+Rabannan@La descripcion@Fruta@Kilogramo@Rabanitos.jpg
+Rabannan@Repetido@Fruta@Kilogramo@Rabanitos.jpg
+Rabannan@@Fruta@Kilogramo@Rabanitos.jpg
+Banana@TipoProducto vacio@@Kilogramo@banana.jpg
+Banana@FormaVenta vacio@Fruta@@banana.jpg
+Sin imagen@Sin Imagen@Fruta@Kilogramo@
+Cereza@fruta prural@Frutas@Kilogramo@cereza.jpg
+Cereza@kilogramo prural@Fruta@Kilogramos@cereza.jpg
+Cereza@@Fruta@Unidad@cereza.jpg
+Error@Descripcion@Fruta
+Error@Descripcion@Fruta@
+
+Esparragos@Ver linea anterior vacia@Fruta@Kilogramo@esparragos.jpg
+Cereza@Multiples errores@Verduras@Unidades@
