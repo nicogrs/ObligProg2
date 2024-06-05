@@ -1,5 +1,5 @@
-# ObligProg2
-Repositorio del obligatorio realizado en programacion 2.
+# Obligatorio de programación 2.
+Repositorio del obligatorio realizado en programación 2.
 
 Se realiza un programa en Java, donde se simula una aplicaciion de un mercado de frutas y verduras.
 
